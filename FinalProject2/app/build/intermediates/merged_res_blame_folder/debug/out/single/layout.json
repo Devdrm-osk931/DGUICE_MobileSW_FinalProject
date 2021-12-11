@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Dev\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Dev\\AndroidStudioProjects\\FinalProject2\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_join.xml",
+        "source": "C:\\Users\\Dev\\AndroidStudioProjects\\FinalProject2\\app\\src\\main\\res\\layout\\activity_join.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\Dev\\AndroidStudioProjects\\FinalProject2\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_customer_service.xml",
+        "source": "C:\\Users\\Dev\\AndroidStudioProjects\\FinalProject2\\app\\src\\main\\res\\layout\\activity_customer_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Dev\\AndroidStudioProjects\\FinalProject2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_maps.xml",
+        "source": "C:\\Users\\Dev\\AndroidStudioProjects\\FinalProject2\\app\\src\\main\\res\\layout\\fragment_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_layout.xml",
+        "source": "C:\\Users\\Dev\\AndroidStudioProjects\\FinalProject2\\app\\src\\main\\res\\layout\\item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_detail_page.xml",
+        "source": "C:\\Users\\Dev\\AndroidStudioProjects\\FinalProject2\\app\\src\\main\\res\\layout\\activity_detail_page.xml"
+    }
+]

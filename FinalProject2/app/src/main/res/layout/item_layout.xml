@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="320dp"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@drawable/border">
+
+    <ImageView
+        android:id="@+id/main_image"
+        android:layout_width="match_parent"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:scaleType="centerInside"
+        android:layout_height="0dp"
+        android:layout_weight="5"
+        android:background="@drawable/border"/>
+
+    <TextView
+        android:id="@+id/main_brand"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="20dp"
+        android:paddingLeft="8dp"
+        android:textColor="@color/black"
+        tools:text="Brand"/>
+
+    <TextView
+        android:id="@+id/main_pname"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="15dp"
+        android:paddingLeft="8dp"
+        android:gravity="center_vertical"
+        android:textColor="@color/black"
+        tools:text ="Product name"/>
+
+    <TextView
+        android:id="@+id/main_price"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="15dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="8dp"
+        android:textColor="@color/black"
+        tools:text = "Price"/>
+
+
+    </LinearLayout>

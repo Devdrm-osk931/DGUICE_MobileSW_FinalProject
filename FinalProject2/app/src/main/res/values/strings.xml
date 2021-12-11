@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="Title">ICE MOUSE MALL</string>
+    <string name="CS_Button">CS</string>
+    <string name="CS_Title">Customer and Service</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="Detailpage">상세 정보</string>
+    <string name="Welcome">Welcome to ICE Mall</string>
+    <string name="id">Enter your ID</string>
+    <string name="tv_id">아이디</string>
+    <string name="pw">Enter your Password</string>
+    <string name="tv_pw">비밀번호</string>
+</resources>
